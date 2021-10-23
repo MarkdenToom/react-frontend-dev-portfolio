@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello! 👋 Welcome to my website!",
+      "description": "My name is Mark den Toom and I am a self-taught software developer from Schelluinen, a small town 🏡 in Zuid-Holland, the Netherlands. I currently work at ISPnext 💼 where I make automated invoice processing software 🧾 and in my spare time I like to do indie game development 🎮. I made this website to show off my webdev portfolio and work experience 📚",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,201 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "After Man",
+        "startDate": "WIP",
+        "description": "A story-driven game about defending your Balkan grandma during a zombie apocalypse. The features of the project are not yet set in stone, but currently features zombie ragdoll physics on death and the start of an in-depth gunplay and ballistics system. The game is planned to release on steam for free in 2022. The code for this project will remain closed source.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/after-man/p1.png",
+          "images/portfolio/after-man/p2.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-godot-plain",
+            "name": "Godot Engine"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-python-plain",
+            "name": "GDScript (similar to Python)"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-windows8-plain",
+            "name": "Batch"
+          },
+          {
+            "class": "devicon-opengl-plain",
+            "name": "GLSL (similar to C)"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "markdentoom.com",
+        "startDate": "2021",
+        "description": "A sleek portfolio site with a minimalist design that I created to show off my personal projects in a way that allows me to be much more descriptive than a one-page resume could ever be. This site is released publically on my GitHub account using GitHub Pages.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/portfolio/p1.jpg",
+          "images/portfolio/portfolio/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://markdentoom.com/",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "Sass"
+          },
+          {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "GitHub"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Dynasty 8",
+        "startDate": "2020",
+        "description": "A modern, realistic version of the Real Estate website from Grand Theft Auto V. Features an advanced search tool, custom-built admin panel, and automated mailing system. This project's code is released publically on my GitHub account and deployed using PythonAnywhere.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/dynasty8/p1.jpg",
+          "images/portfolio/dynasty8/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://realisticdynasty8.eu.pythonanywhere.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-django-plain",
+            "name": "Django"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Strange Stuff",
+        "startDate": "2020",
+        "description": "An e-commerce site that sells peculiar items. Features a cart system, discount functionality and automatically expiring promo codes. This project's code is released publically on my GitHub account and deployed using PythonAnywhere.",
+        "images": [
+          "images/portfolio/strange-stuff/p1.jpg",
+          "images/portfolio/strange-stuff/p2.jpg"
+        ],
+        "url": "http://strangestuffdeployment.eu.pythonanywhere.com/",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "GitHub"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "ISPnext",
+        "title": "Full Stack Developer",
+        "years": "08.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Django/ React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "ReactJS",
+          "TypeScript",
+          "MobX",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Django",
+          "Django REST",
+          "Python",
+          "PostgreSQL",
+          "SQL",
+          "Git",
+          "Bitbucket",
+          "GitHub",
+          "Docker",
+          "Kubernetes",
+          "Redis",
+          "Sentry",
+          "Grafana",
+          "Postman"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "The Medical Export Group",
+        "title": "Documentalist",
+        "years": "03.2019 - 04.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Python"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Python",
+          "Git",
+          "GitHub",
+          "Excel",
+          "Dynamics 365 Business Central",
+          "Unit4"
         ]
       }
     ]
