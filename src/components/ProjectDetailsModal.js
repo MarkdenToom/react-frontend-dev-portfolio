@@ -76,8 +76,11 @@ class ProjectDetailsModal extends Component {
               {img}
             </AwesomeSlider>
           </div>
-          <div className="col-md-10 mx-auto">
-            <h3 style={{ padding: "5px 5px 0 5px" }}>
+          <div
+            className="col-md-10 mx-auto"
+            style={{ fontSize: "169%" }}
+          >
+            <h3 style={{ padding: "5px 5px 0 5px", fontSize: "100%" }}>
               {title}
               {url ? (
                 <a
@@ -93,7 +96,7 @@ class ProjectDetailsModal extends Component {
                 </a>
               ) : null}
             </h3>
-            <p className="modal-description">{description}</p>
+            <p className="modal-description" style={{ fontSize: "100%" }}>{description}</p>
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>
             </div>

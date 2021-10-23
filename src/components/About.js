@@ -18,7 +18,7 @@ class About extends Component {
       <section id="about">
         <div className="col-md-12">
           <h1 style={{ color: "black" }}>
-            <span>{sectionName}</span>
+            <span style={{ fontSize: "169%" }}>{sectionName}</span>
           </h1>
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">
@@ -67,8 +67,8 @@ class About extends Component {
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
                     style={{
                       height: "auto",
-                      fontSize: "155%",
-                      lineHeight: "200%",
+                      fontSize: "169%",
+                      lineHeight: "169%",
                     }}
                   >
                     <br />
