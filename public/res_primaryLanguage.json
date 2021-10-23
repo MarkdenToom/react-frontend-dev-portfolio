@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello! 👋 Welcome to my website!",
-      "description": "My name is Mark den Toom and I am a self-taught software developer from Schelluinen, a small town 🏡 in Zuid-Holland, the Netherlands. I currently work at ISPnext 💼 where I make automated invoice processing software 🧾 and in my spare time I like to do indie game development 🎮. I made this website to show off my webdev portfolio and work experience 📚",
+      "description": "My name is Mark den Toom and I am a self-taught software developer from Schelluinen, a small town 🏡 in Zuid-Holland, the Netherlands. I currently work at ISPnext 💼 where I make automated invoice processing software 🧾 and in my spare time I like to do indie game development 🎮.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
