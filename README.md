@@ -1,4 +1,4 @@
-# markdentoom.com
+# [markdentoom.com](https://markdentoom.com/)
 
 A cross-platform portfolio site with a minimalist design that I created to show off my personal projects.
 
