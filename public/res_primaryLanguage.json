@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello! 👋 Welcome to my website!",
-      "description": "My name is Mark den Toom and I am a self-taught software developer from Schelluinen, a small town 🏡 in Zuid-Holland. I currently work at ISPnext 💼 where I make automated invoice processing software and in my spare time I like to do indie game development 🎮.",
+      "description": "My name is Mark den Toom and I live in Gorinchem, a small city 🏡 in Zuid-Holland. I am a self-taught software developer currently working at ISPnext 💼 where I make automated invoice processing software. In my spare time I like to do indie game development 🎮.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "After Man",
         "startDate": "WIP",
-        "description": "A story-driven game about defending your Balkan grandma during a zombie apocalypse. The features of the project are not yet set in stone, but currently features zombie ragdoll physics on death and the start of an in-depth gunplay and ballistics system. The game is planned to release on steam for free in 2022. The code for this project will remain closed source.",
+        "description": "A story-driven game about defending your Balkan grandma during a zombie apocalypse. The features of the project are not yet set in stone, but it currently features zombie ragdoll physics and the start of an in-depth gunplay and ballistics system. The game is planned to release on steam for free in 2022. The code for this project will remain closed source.",
         "images": [
           "images/portfolio/after-man/p1.png",
           "images/portfolio/after-man/p2.png"
@@ -41,24 +41,24 @@
       {
         "title": "markdentoom.com",
         "startDate": "2021",
-        "description": "A sleek portfolio site with a minimalist design that I created to show off my personal projects in a way that allows me to be much more descriptive than a one-page resume could ever be. This site is released publically on my GitHub account using GitHub Pages.",
+        "description": "A cross-platform portfolio site with a minimalist design that I created to show off my personal projects. Features a light and dark mode, an English and Dutch mode, and a handful of non-intrusive animations. This project's code is released publically on my GitHub account and is deployed using GitHub Pages.",
         "images": [
-          "images/portfolio/portfolio/p1.jpg",
-          "images/portfolio/portfolio/p2.jpg"
+          "images/portfolio/portfolio/p1.png",
+          "images/portfolio/portfolio/p2.png"
         ],
-        "url": "https://markdentoom.com/",
+        "url": "https://github.com/MarkdenToom/react-frontend-dev-portfolio",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
             "class": "devicon-sass-plain",
             "name": "Sass"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
             "class": "devicon-javascript-plain",
@@ -77,12 +77,13 @@
       {
         "title": "Dynasty 8",
         "startDate": "2020",
-        "description": "A modern, realistic version of the Real Estate website from Grand Theft Auto V. Features an advanced search tool, custom-built admin panel, and automated mailing system. This project's code is released publically on my GitHub account and deployed using PythonAnywhere.",
+        "description": "A modern, realistic version of the Real Estate website from Grand Theft Auto V. Features an advanced search tool, custom-built admin panel, and automated mailing system. This project's code is released publically on my GitHub account and was deployed using PythonAnywhere. The PythonAnywhere hosting license has since expired.",
         "images": [
-          "images/portfolio/dynasty8/p1.jpg",
-          "images/portfolio/dynasty8/p2.jpg"
+          "images/portfolio/dynasty8/p1.png",
+          "images/portfolio/dynasty8/p2.png",
+          "images/portfolio/dynasty8/p3.png"
         ],
-        "url": "https://realisticdynasty8.eu.pythonanywhere.com/",
+        "url": "https://github.com/MarkdenToom/Dynasty-8-Real-Estate",
         "technologies": [
           {
             "class": "devicon-django-plain",
@@ -121,12 +122,13 @@
       {
         "title": "Strange Stuff",
         "startDate": "2020",
-        "description": "An e-commerce site that sells peculiar items. Features a cart system, discount functionality and automatically expiring promo codes. This project's code is released publically on my GitHub account and deployed using PythonAnywhere.",
+        "description": "An e-commerce site that sells peculiar items. Features a cart system, discount functionality and automatically expiring promo codes. This project's code is released publically on my GitHub account and was deployed using PythonAnywhere. The PythonAnywhere hosting license has since expired.",
         "images": [
-          "images/portfolio/strange-stuff/p1.jpg",
-          "images/portfolio/strange-stuff/p2.jpg"
+          "images/portfolio/strange-stuff/p1.png",
+          "images/portfolio/strange-stuff/p2.png",
+          "images/portfolio/strange-stuff/p3.png"
         ],
-        "url": "http://strangestuffdeployment.eu.pythonanywhere.com/",
+        "url": "https://github.com/MarkdenToom/StrangeStuff",
         "technologies": [
           {
             "class": "devicon-django-plain",
@@ -151,6 +153,47 @@
           {
             "class": "devicon-postgresql-plain",
             "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "NASA-blog",
+        "startDate": "2020",
+        "description": "A blog about recent NASA articles. Features frontend post create and edit, a custom text editor, and a public comment section that requires admin approval. This project's code is released publically on my GitHub account and was deployed using PythonAnywhere. The PythonAnywhere hosting license has since expired.",
+        "images": [
+          "images/portfolio/NASA-blog/p1.png",
+          "images/portfolio/NASA-blog/p2.png",
+          "images/portfolio/NASA-blog/p3.png"
+        ],
+        "url": "https://github.com/MarkdenToom/NASA-blog",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-git-plain",

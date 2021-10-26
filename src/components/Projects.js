@@ -21,7 +21,7 @@ class Projects extends Component {
       var projects = this.props.resumeProjects.map(function (projects) {
         return (
           <div
-            className="col-sm-12 col-md-6 col-lg-4 col-xl-3"
+            className="col-sm-12 col-md-6 col-lg-6 col-xl-4"
             key={projects.title}
             style={{ cursor: "pointer" }}
           >
@@ -34,7 +34,9 @@ class Projects extends Component {
                     height="230"
                     style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
                   />
-                  <span className="project-date">{projects.startDate}</span>
+                  {projects.startDate === "WIP" && 
+                    <span className="project-date">{projects.startDate}</span>
+                  }
                   <br />
                   <p className="project-title-settings mt-3">
                     {projects.title}
