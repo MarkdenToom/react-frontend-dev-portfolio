@@ -5,13 +5,23 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/MarkdenToom",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "http://www.linkedin.com/in/markdentoom",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "resume",
+          "url": "CV Mark den Toom.pdf",
+          "class": "fa fa-file-user"
+        },
+        {
+          "name": "mail me",
+          "url": "mailto: markdentoom@outlook.com",
+          "class": "fa fa-envelope"
         }
       ],
       "image": "myProfile.jpg"
@@ -19,48 +29,53 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
+          "name": "ReactJS",
+          "class": "devicon-react-original",
+          "level": "100"
         },
         {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
-          "level": "90"
+          "level": "95"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "90"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "85"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "80"
         },
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "level": "75"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Godot Engine",
+          "class": "devicon-godot-plain",
           "level": "60"
         }
       ]
