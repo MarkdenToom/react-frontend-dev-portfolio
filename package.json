@@ -1,6 +1,5 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://markdentoom.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
