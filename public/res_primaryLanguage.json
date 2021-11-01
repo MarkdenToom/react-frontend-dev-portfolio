@@ -13,7 +13,7 @@
       {
         "title": "After Man",
         "startDate": "WIP",
-        "description": "A story-driven game about defending your Balkan grandma during a zombie apocalypse. The features of the project are not yet set in stone, but it currently features zombie ragdoll physics and the start of an in-depth gunplay and ballistics system. The game is planned to release on steam for free in 2022. The code for this project will remain closed source.",
+        "description": "A story-driven game about defending your Balkan grandma during a zombie apocalypse. The features of the project are not yet set in stone, but it currently features zombie ragdoll physics and the start of an in-depth gunplay system with realistic ballistics. The game is planned to release on steam for free in 2022. The code for this project will remain closed source.",
         "images": [
           "images/portfolio/after-man/p1.png",
           "images/portfolio/after-man/p2.png"

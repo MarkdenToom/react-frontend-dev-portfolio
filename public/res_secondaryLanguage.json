@@ -13,7 +13,7 @@
     {
       "title": "After Man",
       "startDate": "WIP",
-      "description": "Een verhaalgedreven game over het verdedigen van je Oostblok oma tijdens een zombie-apocalyps. De functionaliteiten van het project zijn nog niet in steen gebeiteld, maar het bevat momenteel zombie ragdoll physics en het begin van een diepgaand gunplay- en ballistisch systeem. Het is de bedoeling dat de game in 2022 gratis op Steam wordt uitgebracht. De code voor dit project blijft closed source.",
+      "description": "Een verhaalgedreven game over het verdedigen van je Oostblok oma tijdens een zombie-apocalyps. De functionaliteiten van het project zijn nog niet in steen gebeiteld, maar het bevat momenteel zombie ragdoll physics en het begin van een diepgaand wapensysteem met realistische ballistiek. Het is de bedoeling dat de game in 2022 gratis op Steam wordt uitgebracht. De code voor dit project blijft closed source.",
       "images": [
         "images/portfolio/after-man/p1.png",
         "images/portfolio/after-man/p2.png"
