@@ -202,9 +202,9 @@
       "startDate": "2020",
       "description": "Een blog over recente NASA-artikelen. Beschikt over een frontendfunctionaliteit voor het maken en bewerken van posts, een op maat gemaakte teksteditor, en een openbare commentaarsectie die goedkeuring van een beheerder vereist. De code van dit project is openbaar beschikbaar op mijn GitHub-account en was deployed met gebruik van PythonAnywhere. De hostinglicentie van PythonAnywhere is inmiddels verlopen.",
       "images": [
-        "images/portfolio/NASA-blog/p1.png",
-        "images/portfolio/NASA-blog/p2.png",
-        "images/portfolio/NASA-blog/p3.png"
+        "images/portfolio/nasa-blog/p1.png",
+        "images/portfolio/nasa-blog/p2.png",
+        "images/portfolio/nasa-blog/p3.png"
       ],
       "url": "https://github.com/MarkdenToom/NASA-blog",
       "technologies": [

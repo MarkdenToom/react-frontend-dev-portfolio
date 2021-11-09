@@ -206,9 +206,9 @@
         "startDate": "2020",
         "description": "A blog about recent NASA articles. Features frontend post create and edit, a custom text editor, and a public comment section that requires admin approval. This project's code is released publically on my GitHub account and was deployed using PythonAnywhere. The PythonAnywhere hosting license has since expired.",
         "images": [
-          "images/portfolio/NASA-blog/p1.png",
-          "images/portfolio/NASA-blog/p2.png",
-          "images/portfolio/NASA-blog/p3.png"
+          "images/portfolio/nasa-blog/p1.png",
+          "images/portfolio/nasa-blog/p2.png",
+          "images/portfolio/nasa-blog/p3.png"
         ],
         "url": "https://github.com/MarkdenToom/NASA-blog",
         "technologies": [
