@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Mark den Toom",
-      "titles": [ "Full stack engineer", "Web developer", "Indie game developer" ],
+      "titles": [ "Full stack engineer", "Web developer", "Software enthousiast" ],
       "social": [
         {
           "name": "github",
@@ -71,11 +71,6 @@
         {
           "name": "PostgreSQL",
           "class": "devicon-postgresql-plain",
-          "level": "60"
-        },
-        {
-          "name": "Godot Engine",
-          "class": "devicon-godot-plain",
           "level": "60"
         }
       ]

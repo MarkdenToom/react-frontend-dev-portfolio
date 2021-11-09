@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello! 👋 Welcome to my website!",
-      "description": "My name is Mark den Toom and I live in Gorinchem, a small city 🏡 in Zuid-Holland. I am a self-taught software developer currently working at ISPnext 💼 where I make automated invoice processing software. In my spare time I like to do indie game development 🎮.",
+      "description": "My name is Mark den Toom and I live in Gorinchem, a small city 🏡 in Zuid-Holland. I am a self-taught software developer currently working at ISPnext 💼 where I make invoice processing software. In my spare time I like to do video game modding 🎮 and make websites.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -9,7 +9,7 @@
         "experience": "Experience"
       }
     },
-    "projects": [
+    "unused_projects": [
       {
         "title": "After Man",
         "startDate": "WIP",
@@ -37,6 +37,39 @@
             "name": "GLSL (similar to C)"
           }
         ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Climate change API",
+        "startDate": "WIP",
+        "description": "An API that scrapes climate change article data from many different news websites. The API is planned to release on RapidAPI in Q4 2022. The code for this project will remain closed source.",
+        "images": [
+          "images/portfolio/climate-change-api/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "GitHub"
+          }
+        ]
       },
       {
         "title": "markdentoom.com",
@@ -55,6 +88,10 @@
           {
             "class": "devicon-sass-plain",
             "name": "Sass"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
           },
           {
             "class": "devicon-html5-plain",

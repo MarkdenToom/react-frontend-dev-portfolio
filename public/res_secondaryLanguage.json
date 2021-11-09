@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hallo! 👋 Welkom op mijn website!",
-    "description": "Mijn naam is Mark den Toom en ik woon in Gorinchem, een kleine stad 🏡 in Zuid-Holland. Ik ben een zelf aangeleerd softwareontwikkelaar en werk momenteel bij ISPnext 💼 waar ik geautomatiseerde factuurverwerkingssoftware maak. In mijn vrije tijd doe ik graag aan indie game-ontwikkeling 🎮.",
+    "description": "Mijn naam is Mark den Toom en ik woon in Gorinchem, een kleine stad 🏡 in Zuid-Holland. Ik ben een zelf aangeleerd softwareontwikkelaar en werk momenteel bij ISPnext 💼 waar ik factuurverwerkingssoftware maak. In mijn vrije tijd doe ik graag aan video game-ontwikkeling 🎮 en maak ik websites.",
     "section_name": {
       "about": "Over mij",
       "projects": "Projecten",
@@ -9,11 +9,11 @@
       "experience": "Ervaring"
     }
   },
-  "projects": [
+  "unused_projects": [
     {
       "title": "After Man",
       "startDate": "WIP",
-      "description": "Een verhaalgedreven game over het verdedigen van je Oostblok oma tijdens een zombie-apocalyps. De functionaliteiten van het project zijn nog niet in steen gebeiteld, maar het bevat momenteel zombie ragdoll physics en het begin van een diepgaand wapensysteem met realistische ballistiek. Het is de bedoeling dat de game in 2022 gratis op Steam wordt uitgebracht. De code voor dit project blijft closed source.",
+      "description": "Een verhaalgedreven game over het verdedigen van je Oostblok oma tijdens een zombie-apocalyps. De functionaliteiten van het project zijn nog niet in steen gebeiteld, maar het bevat momenteel zombie ragdoll physics en het begin van een diepgaand wapensysteem met realistische ballistiek. De game zal naar verwachting in 2022 gratis op steam worden uitgebracht. De code voor dit project blijft closed source.",
       "images": [
         "images/portfolio/after-man/p1.png",
         "images/portfolio/after-man/p2.png"
@@ -35,6 +35,39 @@
         {
           "class": "devicon-opengl-plain",
           "name": "GLSL (vergelijkbaar met C)"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Climate change API",
+      "startDate": "WIP",
+      "description": "Een API die artikelgegevens over klimaatverandering van veel verschillende nieuwswebsites haalt. De API zal naar verwachting in Q4 2021 op RapidAPI worden uitgebracht. De code voor dit project blijft closed source.",
+      "images": [
+        "images/portfolio/climate-change-api/p1.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-git-plain",
+          "name": "Git"
+        },
+        {
+          "class": "devicon-github-plain",
+          "name": "GitHub"
         }
       ]
     },
