@@ -64,7 +64,7 @@
       {
         "title": "markdentoom.com",
         "startDate": "2021",
-        "description": "A cross-platform portfolio site with a minimalist design that I created to show off my personal projects. Features a light and dark mode, an English and Dutch mode, and a handful of non-intrusive animations. This project's code is released publically on my GitHub account and is deployed using GitHub Pages.",
+        "description": "A cross-platform portfolio site with a minimalist design that I created to show off my personal projects. Features a light and dark mode, multi-language support, and a handful of non-intrusive animations. This project's code is released publically on my GitHub account and is deployed using GitHub Pages.",
         "images": [
           "images/portfolio/p1.png",
           "images/portfolio/p2.png"
