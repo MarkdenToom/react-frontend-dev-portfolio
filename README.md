@@ -12,17 +12,17 @@ This project is deployed using GitHub Pages. Do the following to run it locally:
 
 ## Features:
 ### **Light and dark mode**
-### **English and Dutch mode**
+### **Multi-language support**
 ![image](https://user-images.githubusercontent.com/59030690/138902905-edefe044-4b46-4c43-bec7-719afd9743c0.png)
 
 ### **A handful of non-intrusive animations**
 ![image](https://user-images.githubusercontent.com/59030690/138903172-0c6871ea-0ff5-40d7-8cfb-957e145dfbb2.png)
 
 ## Built With
-* [React](https://reactjs.org/) - Wrote most of the frontend using react
-* [Sass](https://sass-lang.com/) - Used for styling
-* HTML - Frontend visualization
-* JavaScript - Used for some animations and additional frontend magic
+* [React](https://reactjs.org/)
+* [Sass](https://sass-lang.com/)
+* HTML
+* JavaScript
 
 ## Contributing
 
