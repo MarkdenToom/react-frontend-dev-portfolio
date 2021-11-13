@@ -1,11 +1,11 @@
 {
     "basic_info": {
       "name": "Mark den Toom",
-      "titles": [ "Full stack engineer", "Web developer", "Software enthousiast" ],
+      "titles": [ "Full stack developer", "Software enthousiast", "Webdev Wizard" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/MarkdenToom",
+          "url": "https://github.com/markdentoom",
           "class": "fab fa-github"
         },
         {

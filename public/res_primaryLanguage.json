@@ -15,8 +15,8 @@
         "startDate": "WIP",
         "description": "A story-driven game about defending your Balkan grandma during a zombie apocalypse. The features of the project are not yet set in stone, but it currently features zombie ragdoll physics and the start of an in-depth gunplay system with realistic ballistics. The game is planned to release on steam for free in 2022. The code for this project will remain closed source.",
         "images": [
-          "images/portfolio/after-man/p1.png",
-          "images/portfolio/after-man/p2.png"
+          "images/after-man/p1.png",
+          "images/after-man/p2.png"
         ],
         "url": "",
         "technologies": [
@@ -42,32 +42,22 @@
     "projects": [
       {
         "title": "Climate change API",
-        "startDate": "WIP",
-        "description": "An API that scrapes climate change article data from many different news websites. The API is planned to release on RapidAPI in Q4 2022. The code for this project will remain closed source.",
+        "startDate": "2021",
+        "description": "An API that scrapes climate change article data from many different news websites. It designed to be easy to expand and modify for other types of articles. This project's code is released publically on my GitHub account and is deployed using RapidAPI and Heroku.",
         "images": [
-          "images/portfolio/climate-change-api/p1.png"
+          "images/climate-change-api/p1.png",
+          "images/climate-change-api/p2.png",
+          "images/climate-change-api/p3.png"
         ],
-        "url": "",
+        "url": "https://github.com/markdentoom/climate-change-api",
         "technologies": [
           {
             "class": "devicon-nodejs-plain",
             "name": "Node.js"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
             "class": "devicon-express-original",
-            "name": "Express"
-          },
-          {
-            "class": "devicon-git-plain",
-            "name": "Git"
-          },
-          {
-            "class": "devicon-github-plain",
-            "name": "GitHub"
+            "name": "Express.js"
           }
         ]
       },
@@ -76,14 +66,14 @@
         "startDate": "2021",
         "description": "A cross-platform portfolio site with a minimalist design that I created to show off my personal projects. Features a light and dark mode, an English and Dutch mode, and a handful of non-intrusive animations. This project's code is released publically on my GitHub account and is deployed using GitHub Pages.",
         "images": [
-          "images/portfolio/portfolio/p1.png",
-          "images/portfolio/portfolio/p2.png"
+          "images/portfolio/p1.png",
+          "images/portfolio/p2.png"
         ],
-        "url": "https://github.com/MarkdenToom/react-frontend-dev-portfolio",
+        "url": "https://github.com/markdentoom/react-frontend-dev-portfolio",
         "technologies": [
           {
             "class": "devicon-react-original",
-            "name": "React"
+            "name": "ReactJS"
           },
           {
             "class": "devicon-sass-plain",
@@ -92,22 +82,6 @@
           {
             "class": "devicon-nodejs-plain",
             "name": "Node.js"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-git-plain",
-            "name": "Git"
-          },
-          {
-            "class": "devicon-github-plain",
-            "name": "GitHub"
           }
         ]
       },
@@ -116,27 +90,15 @@
         "startDate": "2020",
         "description": "A modern, realistic version of the Real Estate website from Grand Theft Auto V. Features an advanced search tool, custom-built admin panel, and automated mailing system. This project's code is released publically on my GitHub account and was deployed using PythonAnywhere. The PythonAnywhere hosting license has since expired.",
         "images": [
-          "images/portfolio/dynasty8/p1.png",
-          "images/portfolio/dynasty8/p2.png",
-          "images/portfolio/dynasty8/p3.png"
+          "images/dynasty8/p1.png",
+          "images/dynasty8/p2.png",
+          "images/dynasty8/p3.png"
         ],
-        "url": "https://github.com/MarkdenToom/Dynasty-8-Real-Estate",
+        "url": "https://github.com/markdentoom/Dynasty-8-Real-Estate",
         "technologies": [
           {
             "class": "devicon-django-plain",
             "name": "Django"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
           },
           {
             "class": "devicon-javascript-plain",
@@ -145,14 +107,6 @@
           {
             "class": "devicon-postgresql-plain",
             "name": "PostgreSQL"
-          },
-          {
-            "class": "devicon-git-plain",
-            "name": "Git"
-          },
-          {
-            "class": "devicon-github-plain",
-            "name": "GitHub"
           }
         ]
       },
@@ -161,27 +115,15 @@
         "startDate": "2020",
         "description": "An e-commerce site that sells peculiar items. Features a cart system, discount functionality and automatically expiring promo codes. This project's code is released publically on my GitHub account and was deployed using PythonAnywhere. The PythonAnywhere hosting license has since expired.",
         "images": [
-          "images/portfolio/strange-stuff/p1.png",
-          "images/portfolio/strange-stuff/p2.png",
-          "images/portfolio/strange-stuff/p3.png"
+          "images/strange-stuff/p1.png",
+          "images/strange-stuff/p2.png",
+          "images/strange-stuff/p3.png"
         ],
-        "url": "https://github.com/MarkdenToom/StrangeStuff",
+        "url": "https://github.com/markdentoom/StrangeStuff",
         "technologies": [
           {
             "class": "devicon-django-plain",
             "name": "Django"
-          },
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
           },
           {
             "class": "devicon-bootstrap-plain",
@@ -190,14 +132,6 @@
           {
             "class": "devicon-postgresql-plain",
             "name": "PostgreSQL"
-          },
-          {
-            "class": "devicon-git-plain",
-            "name": "Git"
-          },
-          {
-            "class": "devicon-github-plain",
-            "name": "GitHub"
           }
         ]
       },
@@ -206,39 +140,19 @@
         "startDate": "2020",
         "description": "A blog about recent NASA articles. Features frontend post create and edit, a custom text editor, and a public comment section that requires admin approval. This project's code is released publically on my GitHub account and was deployed using PythonAnywhere. The PythonAnywhere hosting license has since expired.",
         "images": [
-          "images/portfolio/nasa-blog/p1.png",
-          "images/portfolio/nasa-blog/p2.png",
-          "images/portfolio/nasa-blog/p3.png"
+          "images/nasa-blog/p1.png",
+          "images/nasa-blog/p2.png",
+          "images/nasa-blog/p3.png"
         ],
-        "url": "https://github.com/MarkdenToom/NASA-blog",
+        "url": "https://github.com/markdentoom/NASA-blog",
         "technologies": [
           {
             "class": "devicon-django-plain",
             "name": "Django"
           },
           {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
-          },
-          {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-git-plain",
-            "name": "Git"
-          },
-          {
-            "class": "devicon-github-plain",
-            "name": "GitHub"
           }
         ]
       }
@@ -255,15 +169,9 @@
           "ReactJS",
           "TypeScript",
           "MobX",
-          "JavaScript",
           "Django",
           "Django REST",
-          "Python",
           "PostgreSQL",
-          "SQL",
-          "Git",
-          "Bitbucket",
-          "GitHub",
           "Docker",
           "Kubernetes",
           "Redis",
@@ -274,7 +182,7 @@
       },
       {
         "company": "The Medical Export Group",
-        "title": "Documentalist",
+        "title": "Data Science Contractor",
         "years": "03.2019 - 04.2020",
         "mainTech": [
           "Python"
@@ -282,7 +190,6 @@
         "technologies": [
           "Python",
           "Git",
-          "GitHub",
           "Excel",
           "Dynamics 365 Business Central",
           "Unit4"

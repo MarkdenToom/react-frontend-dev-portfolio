@@ -26,17 +26,17 @@ This project is deployed using GitHub Pages. Do the following to run it locally:
 
 ## Contributing
 
-This is a solo project. If you find any issues, please create an issue in the [Issues tab](https://github.com/MarkdenToom/react-frontend-dev-portfolio/issues).
+This is a solo project. If you find any issues, please create an issue in the [Issues tab](https://github.com/markdentoom/react-frontend-dev-portfolio/issues).
 
 ## Authors
 
 * **Mark den Toom** - *Initial work* - [Mark den Toom](https://github.com/markdentoom)
 
-See also the list of [contributors](https://github.com/MarkdenToom/react-frontend-dev-portfolio/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/markdentoom/react-frontend-dev-portfolio/graphs/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT license - see the [LICENSE](https://github.com/MarkdenToom/react-frontend-dev-portfolio/blob/main/LICENSE) file for details.
+This project is licensed under the MIT license - see the [LICENSE](https://github.com/markdentoom/react-frontend-dev-portfolio/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
