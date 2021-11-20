@@ -15,8 +15,8 @@
       "startDate": "WIP",
       "description": "Een verhaalgedreven game over het verdedigen van je Oostblok oma tijdens een zombie-apocalyps. De functionaliteiten van het project zijn nog niet in steen gebeiteld, maar het bevat momenteel zombie ragdoll physics en het begin van een diepgaand wapensysteem met realistische ballistiek. De game zal naar verwachting in 2022 gratis op steam worden uitgebracht. De code voor dit project blijft closed source.",
       "images": [
-        "images/portfolio/after-man/p1.png",
-        "images/portfolio/after-man/p2.png"
+        "images/after-man/p1.png",
+        "images/after-man/p2.png"
       ],
       "url": "",
       "technologies": [
@@ -42,10 +42,12 @@
   "projects": [
     {
       "title": "Climate change API",
-      "startDate": "WIP",
-      "description": "Een API die artikelgegevens over klimaatverandering van veel verschillende nieuwswebsites haalt. De API zal naar verwachting in Q4 2021 op RapidAPI worden uitgebracht. De code voor dit project blijft closed source.",
+      "startDate": "2021",
+      "description": "Een API die artikelgegevens over klimaatverandering van veel verschillende nieuwswebsites haalt. Het is ontworpen om gemakkelijk uit te breiden en aan te passen voor andere soorten artikelen. De code van dit project is openbaar beschikbaar op mijn GitHub-account en is deployed met gebruik van RapidAPI en Heroku.",
       "images": [
-        "images/portfolio/climate-change-api/p1.png"
+        "images/climate-change-api/p1.png",
+        "images/climate-change-api/p2.png",
+        "images/climate-change-api/p3.png"
       ],
       "url": "",
       "technologies": [
@@ -54,32 +56,20 @@
           "name": "Node.js"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
           "class": "devicon-express-original",
-          "name": "Express"
-        },
-        {
-          "class": "devicon-git-plain",
-          "name": "Git"
-        },
-        {
-          "class": "devicon-github-plain",
-          "name": "GitHub"
+          "name": "Express.js"
         }
       ]
     },
     {
       "title": "markdentoom.com",
       "startDate": "2021",
-      "description": "Een platformonafhankelijke portfoliosite met een minimalistisch ontwerp dat ik heb gemaakt om mijn persoonlijke projecten tentoon te stellen. Bevat een lichte en donkere modus, een Engelse en Nederlandse modus, en een handjevol bescheiden animaties. De code van dit project is openbaar beschikbaar op mijn GitHub-account en is deployed met gebruik van GitHub Pages.",
+      "description": "Een platformonafhankelijke portfoliosite met een minimalistisch ontwerp dat ik heb gemaakt om mijn persoonlijke projecten tentoon te stellen. Bevat een lichte en donkere modus, meertalige ondersteuning, en een handjevol bescheiden animaties. De code van dit project is openbaar beschikbaar op mijn GitHub-account en is deployed met gebruik van GitHub Pages.",
       "images": [
-        "images/portfolio/portfolio/p1.png",
-        "images/portfolio/portfolio/p2.png"
+        "images/portfolio/p1.png",
+        "images/portfolio/p2.png"
       ],
-      "url": "https://github.com/MarkdenToom/react-frontend-dev-portfolio",
+      "url": "https://github.com/markdentoom/react-frontend-dev-portfolio",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -90,20 +80,8 @@
           "name": "Sass"
         },
         {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-git-plain",
-          "name": "Git"
-        },
-        {
-          "class": "devicon-github-plain",
-          "name": "GitHub"
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
         }
       ]
     },
@@ -112,27 +90,15 @@
       "startDate": "2020",
       "description": "Een moderne, realistische versie van de makelaarswebsite van de game Grand Theft Auto V. Beschikt over een geavanceerde zoekfunctie, een op maat gemaakt beheerderspaneel, en een geautomatiseerd mailingsysteem. De code van dit project is openbaar beschikbaar op mijn GitHub-account en was deployed met gebruik van PythonAnywhere. De hostinglicentie van PythonAnywhere is inmiddels verlopen.",
       "images": [
-        "images/portfolio/dynasty8/p1.png",
-        "images/portfolio/dynasty8/p2.png",
-        "images/portfolio/dynasty8/p3.png"
+        "images/dynasty8/p1.png",
+        "images/dynasty8/p2.png",
+        "images/dynasty8/p3.png"
       ],
-      "url": "https://github.com/MarkdenToom/Dynasty-8-Real-Estate",
+      "url": "https://github.com/markdentoom/Dynasty-8-Real-Estate",
       "technologies": [
         {
           "class": "devicon-django-plain",
           "name": "Django"
-        },
-        {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS 3"
         },
         {
           "class": "devicon-javascript-plain",
@@ -141,14 +107,6 @@
         {
           "class": "devicon-postgresql-plain",
           "name": "PostgreSQL"
-        },
-        {
-          "class": "devicon-git-plain",
-          "name": "Git"
-        },
-        {
-          "class": "devicon-github-plain",
-          "name": "GitHub"
         }
       ]
     },
@@ -157,27 +115,15 @@
       "startDate": "2020",
       "description": "Een e-commerce site dat vreemde artikelen verkoopt. Beschikt over een winkelwagensysteem, kortingsfunctionaliteit, en automatisch verlopende promotiecodes. De code van dit project is openbaar beschikbaar op mijn GitHub-account en was deployed met gebruik van PythonAnywhere. De hostinglicentie van PythonAnywhere is inmiddels verlopen.",
       "images": [
-        "images/portfolio/strange-stuff/p1.png",
-        "images/portfolio/strange-stuff/p2.png",
-        "images/portfolio/strange-stuff/p3.png"
+        "images/strange-stuff/p1.png",
+        "images/strange-stuff/p2.png",
+        "images/strange-stuff/p3.png"
       ],
-      "url": "https://github.com/MarkdenToom/StrangeStuff",
+      "url": "https://github.com/markdentoom/StrangeStuff",
       "technologies": [
         {
           "class": "devicon-django-plain",
           "name": "Django"
-        },
-        {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS 3"
         },
         {
           "class": "devicon-bootstrap-plain",
@@ -186,14 +132,6 @@
         {
           "class": "devicon-postgresql-plain",
           "name": "PostgreSQL"
-        },
-        {
-          "class": "devicon-git-plain",
-          "name": "Git"
-        },
-        {
-          "class": "devicon-github-plain",
-          "name": "GitHub"
         }
       ]
     },
@@ -202,39 +140,19 @@
       "startDate": "2020",
       "description": "Een blog over recente NASA-artikelen. Beschikt over een frontendfunctionaliteit voor het maken en bewerken van posts, een op maat gemaakte teksteditor, en een openbare commentaarsectie die goedkeuring van een beheerder vereist. De code van dit project is openbaar beschikbaar op mijn GitHub-account en was deployed met gebruik van PythonAnywhere. De hostinglicentie van PythonAnywhere is inmiddels verlopen.",
       "images": [
-        "images/portfolio/nasa-blog/p1.png",
-        "images/portfolio/nasa-blog/p2.png",
-        "images/portfolio/nasa-blog/p3.png"
+        "images/nasa-blog/p1.png",
+        "images/nasa-blog/p2.png",
+        "images/nasa-blog/p3.png"
       ],
-      "url": "https://github.com/MarkdenToom/NASA-blog",
+      "url": "https://github.com/markdentoom/NASA-blog",
       "technologies": [
         {
           "class": "devicon-django-plain",
           "name": "Django"
         },
         {
-          "class": "devicon-python-plain",
-          "name": "Python"
-        },
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS 3"
-        },
-        {
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
-        },
-        {
-          "class": "devicon-git-plain",
-          "name": "Git"
-        },
-        {
-          "class": "devicon-github-plain",
-          "name": "GitHub"
         }
       ]
     }
@@ -248,37 +166,24 @@
         "Django/ React"
       ],
       "technologies": [
-        "ReactJS",
+        "React",
         "TypeScript",
         "MobX",
-        "JavaScript",
+        "MobX-state-tree",
         "Django",
         "Django REST",
-        "Python",
-        "PostgreSQL",
-        "SQL",
-        "Git",
-        "Bitbucket",
-        "GitHub",
-        "Docker",
-        "Kubernetes",
-        "Redis",
-        "Sentry",
-        "Grafana",
-        "Postman"
+        "PostgreSQL"
       ]
     },
     {
       "company": "The Medical Export Group",
-      "title": "Documentalist",
+      "title": "Data Science Contractor",
       "years": "03.2019 - 04.2020",
       "mainTech": [
         "Python"
       ],
       "technologies": [
         "Python",
-        "Git",
-        "GitHub",
         "Excel",
         "Dynamics 365 Business Central",
         "Unit4"
