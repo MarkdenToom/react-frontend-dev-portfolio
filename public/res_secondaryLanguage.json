@@ -73,7 +73,7 @@
       "technologies": [
         {
           "class": "devicon-react-original",
-          "name": "ReactJS"
+          "name": "React"
         },
         {
           "class": "devicon-sass-plain",
@@ -166,18 +166,13 @@
         "Django/ React"
       ],
       "technologies": [
-        "ReactJS",
+        "React",
         "TypeScript",
         "MobX",
+        "MobX-state-tree",
         "Django",
         "Django REST",
-        "PostgreSQL",
-        "Docker",
-        "Kubernetes",
-        "Redis",
-        "Sentry",
-        "Grafana",
-        "Postman"
+        "PostgreSQL"
       ]
     },
     {
@@ -189,7 +184,6 @@
       ],
       "technologies": [
         "Python",
-        "Git",
         "Excel",
         "Dynamics 365 Business Central",
         "Unit4"
