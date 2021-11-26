@@ -1,3 +1,4 @@
+<!-- Note to self: perhaps redoing my portfolio using my pixelart would be cool. A bit like [this page](https://jeremyaguilon.me/blog/visualizing_four_key_interview_algorithms) perhaps? -->
 # [markdentoom.com](https://markdentoom.com/)
 
 A cross-platform portfolio site with a minimalist design that I created to show off my personal projects.
