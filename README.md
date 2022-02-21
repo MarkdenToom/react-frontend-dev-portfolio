@@ -29,10 +29,6 @@ This project is deployed using GitHub Pages. Do the following to run it locally:
 
 This is a solo project. If you find any issues, please create an issue in the issues tab.
 
-## Authors
-
-* **Mark den Toom** - *Initial work* - [Mark den Toom](https://github.com/markdentoom)
-
 ## Acknowledgments
 
 * [Dorota1997](https://github.com/Dorota1997/react-frontend-dev-portfolio) for the boilerplate
